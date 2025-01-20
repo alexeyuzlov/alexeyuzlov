@@ -1,8 +1,6 @@
 # Alexey Uzlov  
 
 **Frontend Developer | Angular | JavaScript Ninja🥷**  
-Belgrade, Serbia
-
 ---
 
 ## Contact  
