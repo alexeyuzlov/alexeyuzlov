@@ -12,7 +12,7 @@
 10+ years of frontend and backend web development. Experienced in both solo development and collaborative team environments, contributing to projects from initial planning to successful release launches. Designed and implemented a scalable UI library over Angular CDK in use for over 5 years, improving development efficiency across teams. Actively mentor engineers and speak at conferences, fostering a culture of knowledge-sharing and continuous learning.
 
 ## Top Skills  
-typescript, Angular, NestJS JavaScript, React, Vue, Redux.js, RxJS, NgRx, NgRx, CSS, SCSS, Tailwind, Bootstrap, PHP, Laravel, Express.js, SQL, PostgreSQL, MongoDB, graphql, Git, GitFlow, Jira, Agile Methodologies, Team Leadership
+typescript, Angular, NestJS JavaScript, React, Vue, Redux.js, RxJS, NgRx, CSS, SCSS, Tailwind, Bootstrap, PHP, Laravel, Express.js, SQL, PostgreSQL, MongoDB, graphql, Git, GitFlow, Jira, Agile Methodologies, Team Leadership
 
 ## Experience  
 
