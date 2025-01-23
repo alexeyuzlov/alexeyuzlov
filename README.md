@@ -6,8 +6,6 @@
 ## Contact  
 - **Email**: [alexeyuzlov@gmail.com](mailto:alexeyuzlov@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/alexey-uzlov](https://www.linkedin.com/in/alexey-uzlov)  
-- **GitHub**: [github.com/alexeyuzlov](https://github.com/alexeyuzlov)  
-
 ---
 
 ## Summary  
@@ -15,20 +13,22 @@ With over 10 years of frontend expertise, I excel in both solo development and c
 
 ## Experience  
 
-### Codemasters International, LLC (11 years)
+### Codemasters International, LLC (8 years)
 - Front End Lead (2020 – Present)
 - Senior Frontend Engineer (February 2016 – 2020)
-- Frontend Engineer (February 2014 – 2016)
 
-### Freelancer  
-- Full Stack Engineer (January 2011 – February 2014)
-
+### TruVisibility  (3 years)
+ - Full Stack Developer (Feb 2014 to Sep 2016)
 ---
 
 ## Education  
 **Mordovia State University named after N.P. Ogarev (MSU)**  
-- **Field of Study**: Information Technology  
-- **Duration**: 2007 – 2012  
+- **Specialist Degree in IT**
+- **Duration**: 2007 – 2012
+  
+**Mordovia State University named after N.P. Ogarev (MSU)**  
+- **Completed postgraduate IT program (PhD-level coursework)**
+- **Duration**: 2012 – 2015
 
 ---
 
