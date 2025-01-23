@@ -1,6 +1,6 @@
 # Alexey Uzlov  
 
-**Frontend Developer | Angular | JavaScript Ninja🥷**  
+**Senior Frontend Engineer | typescript | Angular | NestJS**  
 ---
 
 ## Contact  
@@ -9,7 +9,10 @@
 ---
 
 ## Summary  
-With over 10 years of frontend expertise, I excel in both solo development and collaborative team environments, contributing to projects from planning to successful releases. I have designed and implemented a scalable UI library based on Angular CDK, actively used for over 5 years, significantly enhancing development efficiency across teams. Passionate about mentorship and knowledge-sharing, I frequently mentor engineers and speak at conferences to foster continuous learning.  
+10+ years of frontend and backend web development. Experienced in both solo development and collaborative team environments, contributing to projects from initial planning to successful release launches. Designed and implemented a scalable UI library over Angular CDK in use for over 5 years, improving development efficiency across teams. Actively mentor engineers and speak at conferences, fostering a culture of knowledge-sharing and continuous learning.
+
+## Top Skills  
+typescript, Angular, NestJS JavaScript, React, Vue, Redux.js, RxJS, NgRx, NgRx, CSS, SCSS, Tailwind, Bootstrap, PHP, Laravel, Express.js, SQL, PostgreSQL, MongoDB, graphql, Git, GitFlow, Jira, Agile Methodologies, Team Leadership
 
 ## Experience  
 
@@ -17,7 +20,7 @@ With over 10 years of frontend expertise, I excel in both solo development and c
 - Front End Lead (2020 – Present)
 - Senior Frontend Engineer (February 2016 – 2020)
 
-### TruVisibility  (3 years)
+### TruVisibility  (2 years 8 months)
  - Full Stack Developer (Feb 2014 to Sep 2016)
 ---
 
@@ -32,9 +35,7 @@ With over 10 years of frontend expertise, I excel in both solo development and c
 
 ---
 
-## Skills  
-### Top Skills  
-- Angular, TypeScript, rxjs
+
  
 ### Certifications  
 - **EF SET English [Certificate](https://cert.efset.org/jnUXyZ)**: 70/100 (C1 Advanced)  
