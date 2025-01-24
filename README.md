@@ -4,7 +4,6 @@
 ---
 
 ## Contact  
-- **Email**: [alexeyuzlov@gmail.com](mailto:alexeyuzlov@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/alexey-uzlov](https://www.linkedin.com/in/alexey-uzlov)  
 ---
 
