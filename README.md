@@ -1,6 +1,6 @@
 # Alexey Uzlov  
 
-**Senior Frontend Engineer | typescript | Angular | NestJS**  
+**Senior Frontend Engineer | javascript ninja 🥷 DevEx for 10 years+ | typescript | angular | react | NestJS | AI-driven dev**  
 ---
 
 ## Contact  
@@ -8,37 +8,48 @@
 ---
 
 ## Summary  
-10+ years of frontend and backend web development. Experienced in both solo development and collaborative team environments, contributing to projects from initial planning to successful release launches. Designed and implemented a scalable UI library over Angular CDK in use for over 5 years, improving development efficiency across teams. Actively mentor engineers and speak at conferences, fostering a culture of knowledge-sharing and continuous learning.
+UX-oriented senior frontend engineer with 10+ years of experience in Angular and React ecosystems. Expertise in DevEx practices, leading distributed teams, driving efficient workflows, and ensuring scalable, maintainable code as well as committed to creating long-term value in products. Regular mentor, conference speaker, and frontend course creator. Ready for global B2B opportunities.
 
-## Top Skills  
-typescript, Angular, NestJS JavaScript, React, Vue, Redux.js, RxJS, NgRx, CSS, SCSS, Tailwind, Bootstrap, PHP, Laravel, Express.js, SQL, PostgreSQL, MongoDB, graphql, Git, GitFlow, Jira, Agile Methodologies, Team Leadership
+## Technical Skills  
+- Frontend: TypeScript, Angular, React, RxJS, NgRx, Redux, Web APIs, SCSS, Tailwind, Material UI, Bootstrap, BEM, HTML, CSS, JavaScript, OWASP and WCAG audits
+- Architecture & Tooling: Nx, SOLID, Webpack, ESLint, CI/CD, Jest, Playwright, Git, GitFlow
+- Backend & APIs: NestJS, Express.js, SQL, PostgreSQL, GraphQL, AWS S3, socket.io  
+- Other: Agile, Scrum, Kanban, TDD, Team Leadership, DevEx, AI-driven dev
 
 ## Experience  
 
 ### Codemasters International, LLC (8 years)
-- Front End Lead (2020 – Present)
-- Senior Frontend Engineer (February 2016 – 2020)
+#### Head of Front End Development	 (Feb 2020 - present)
+- Managed frontend architecture and led a team ranging from 2 to 10 developers; conducted weekly code reviews and mentorship programs, improving team productivity by 20%
+- Scaled product from MVP to traction phase, supporting a company expansion from 20 to 100+ employees
+- Built an AI-powered chat widget using Socket.io and GPT-4, in a 6-week time-to-market (TTM), increasing customer engagement by 15% through A/B testing
+- Delivered drag-and-drop UI builder with nested components, reusable templates, and a migration layer to improve flexibility and scalability across 100+ components and 5 product lines
+
+#### Senior Frontend Engineer (Sep 2016 - Feb 2020)
+- Developed a modular UI kit using Angular CDK and CSS variables, which was used in production for over 8 years and share between 5+ projects
+- Built an automated frontend release pipeline using Jenkins and Docker (ESLint + custom rules, OWASP checks, Webpack + custom plugins, Jest, Playwright, GA/GTM analytics, CI/CD), streamlining deployments and reducing errors
+- Implemented live search with deep URL sync, pagination, and custom criteria
+- Optimized company landing page SPA performance, improving LCP from 5.1s to 2.1s and TTI from 6.8s to 2.4s on average, resulting in an 11% increase in conversion rate.
+- Led the adoption of new framework versions, reducing time-to-market for major features by 15%
 
 ### TruVisibility  (2 years 8 months)
- - Full Stack Developer (Feb 2014 to Sep 2016)
+- Spearheaded a comprehensive refactor of the legacy codebase, modernizing the tech stack to Typescript, resulting in a 40% decrease in reported frontend bugs from end users.
+- Developed and maintained production-level logging, internationalization (i18n), accessibility (WCAG), and analytics pipelines using an AngularJS + typescript v1.3 + PHP stack, ensuring robust and scalable application performance
+
+### Effisol Webmaster (Feb 2011 to Feb 2014)
+- Architected and launched 15+ responsive websites for small and medium enterprises, improving site usability and performance, leading to a 10-15% increase in customer inquiries and conversions.
+
 ---
 
 ## Education  
 **Mordovia State University named after N.P. Ogarev (MSU)**  
 - **Specialist Degree in IT**
 - **Duration**: 2007 – 2012
-  
-**Mordovia State University named after N.P. Ogarev (MSU)**  
-- **Completed postgraduate IT program (PhD-level coursework)**
-- **Duration**: 2012 – 2015
-
 ---
-
-
  
 ### Certifications  
 - **EF SET English [Certificate](https://cert.efset.org/jnUXyZ)**: 70/100 (C1 Advanced)  
 
 ### Languages  
-- **Russian**: Native or Bilingual  
+- **Russian**: Native
 - **English**: Professional Working Proficiency
